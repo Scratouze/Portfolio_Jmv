@@ -17,7 +17,6 @@
 	$body = "";
 	$body .= "<p><b>Nom: </b>".$_POST['name']."</p>";
 	$body .= "<p><b>Email: </b>".$_POST['email']."</p>";
-	$body .= "<p><b>Some selected option: </b>".$_POST['select']."</p>";
 	$body .= "<p><b>Objet: </b>".$subject."</p>";
 	$body .= "<p><b>Message: </b>".$_POST['message']."</p>";
 
