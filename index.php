@@ -81,7 +81,7 @@
                     </div>
                     <div class="about-me-text">
                         <div class="opacity-box">
-                            <p>Après avoir passé plus de 15 ans dans la distribution j'ai décidé de reprendre mes étude et suite
+                            <p>Après avoir passé plus de 15 ans dans la distribution j'ai décidé de reprendre mes études et suite
                             à la validation de diplôme de Développeur, j'occupe un poste de Digital System Project Manager chez
                             chez Scalian</p>
                         </div>
@@ -598,7 +598,7 @@
                 <div class="about-btn">
                     <a href="#" class="site-btn gray-btn" data-dismiss="modal">Retour au CV</a>
                     <a href="https://abc-mailing.fr/" class="site-btn" target="_blank">Visitez le site</a>
-                    <a href="download/Rapport_d'activité__VETU_Jean-Marc_DWWM.pdf" class="site-btn gray-btn" target="_blank">Rapport de stage</a>
+                    <a href="download/VETUJean-MarcDWWM.pdf" class="site-btn gray-btn" target="_blank">Rapport de stage</a>
                 </div>
             </div>
             <div class="modal-body" data-name="Bucket-List">
