@@ -1,5 +1,4 @@
  <!DOCTYPE html>
-<!--suppress ALL -->
  <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -11,6 +10,7 @@
     <meta property="og:description" content="Jean-Marc VETU Développeur">
     <meta property="og:site_name" content="VETU Jean-Marc">
     <title>Jean-Marc VETU - Développeur</title>
+    <link rel="shortcut icon" type="image/png" href="assets/profilJMV.ico"/>
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
     <link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
@@ -77,13 +77,12 @@
             <div class="col-md-6">
                 <div class="about-me wow slideInLeft">
                     <div class="about-me-title">
-                        <h1 class="point"><span >Jean-Marc VETU </span><span><br> développeur PHP / Consultant SI</span></h1><hr>
+                        <h1 class="point"><span >Jean-Marc VETU </span><span><br> Développeur / Consultant SI</span></h1><hr>
                     </div>
                     <div class="about-me-text">
                         <div class="opacity-box">
                             <p>Après avoir passé plus de 15 ans dans la distribution j'ai décidé de reprendre mes études et suite
-                            à la validation de diplôme de Développeur, j'occupe un poste de Digital System Project Manager chez
-                            chez Scalian</p>
+                            à la validation de diplôme de Développeur, j'occupe un poste de Développeur au sein de la Digital Factory chez Scalian</p>
                         </div>
                     </div>
                     <div class="about-me-info">
@@ -102,8 +101,8 @@
                         <p>
                             <span class="span-title">Social</span>
                             <span class="span-icons">
-                                <a target="_blank" href="https://www.linkedin.com/in/velitukejeandinmarc" class="mdi fonts-icons mdi-linkedin" name="linkedin"></a>
-                                <a target="_blank" href="https://github.com/Scratouze/" class="mdi fonts-icons mdi-github-circle" name="github"></a>
+                                <a target="_blank" href="https://www.linkedin.com/in/velitukejeandinmarc" class="mdi fonts-icons mdi-linkedin"></a>
+                                <a target="_blank" href="https://github.com/Scratouze/" class="mdi fonts-icons mdi-github-circle"></a>
                             </span>
                         </p>
                     </div>
@@ -121,7 +120,7 @@
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -129,7 +128,7 @@
                         </g>
                     </g>
                 </svg>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -155,7 +154,7 @@
                         <div class="advantages-box">
                             <h4>Langages</h4>
                             <div class="opacity-box">
-                                <p>JAVA, PHP, HTML/CSS, Javascript, SQL.</p>
+                                <p> Python, PHP, JAVA, HTML/CSS, Javascript, SQL.</p>
                             </div>
                         </div>
                     </div>
@@ -164,7 +163,7 @@
                         <div class="advantages-box">
                             <h4>Environnements</h4>
                             <div class="opacity-box">
-                                <p>Eclipse, Netbeans, JetBrains, Android Studio, Git.</p>
+                                <p>Git, Docker, Eclipse, Netbeans, JetBrains, Android Studio.</p>
                             </div>
                         </div>
                     </div>
@@ -174,7 +173,7 @@
                         <div class="advantages-box">
                             <h4>Développement</h4>
                             <div class="opacity-box">
-                                <p>Bootstrap, Wordpress, Symfony, Angular, SEO, MySQL, SQL Server, Oracle.</p>
+                                <p>Bootstrap, Wordpress, Symfony, Angular, SEO, MySQL, SQL Server, Oracle, Azure.</p>
                             </div>
                         </div>
                     </div>
@@ -197,7 +196,7 @@
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                        <rect class="st0" width="105" height="20"/>
                         <g>
@@ -205,7 +204,7 @@
                         </g>
                     </g>
                 </svg>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -218,7 +217,7 @@
                 <div class="section-sidebar">
                     <h2><span class="point">Experiences</span></h2>
                     <div class="opacity-box">
-                                            </div>
+                    </div>
                 </div>
             </div>
             <div class="col-md-8 right-box">
@@ -229,6 +228,9 @@
                             <p class="about-info"><a href="https://www.scalian.com/" target="_blank">Scalian</a></p>
                             <p>Depuis septembre 2022</p>
                             <div class="opacity-box">
+                                <p>Intégré au centre de compétences 'Digital Factory', je participe à différents projets avec
+                                    comme missions, la conception, l'infrastructure et le développement. Egalement de la revue de code
+                                    et rédaction de documentations techniques</p>
                             </div>
                         </div>
                     </div>
@@ -286,7 +288,7 @@
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -294,7 +296,7 @@
                         </g>
                     </g>
                 </svg>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -446,7 +448,7 @@
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -454,7 +456,7 @@
                         </g>
                     </g>
                 </svg>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -495,7 +497,7 @@
     <div class="container">
         <div class="row wave-bg">
             <div class="zigzag wow slideInLeft">
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20" xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
                         <g>
@@ -503,7 +505,7 @@
                         </g>
                     </g>
                 </svg>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 105 20"
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 105 20"
                      xml:space="preserve">
                     <g>
                         <rect class="st0" width="105" height="20"/>
@@ -525,20 +527,26 @@
                 <div class="form-wrapper">
                     <div class="col-md-3">
                         <div class="form-group">
-                            <input class="form-field js-field-name" type="text" placeholder="Nom" required>
+                            <label>
+                                <input class="form-field js-field-name" type="text" placeholder="Nom" required>
+                            </label>
                             <span class="form-validation"></span>
                             <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
                         </div>
 
                         <div class="form-group">
-                            <input class="form-field js-field-email" type="email" placeholder="Email" required>
+                            <label>
+                                <input class="form-field js-field-email" type="email" placeholder="Email" required>
+                            </label>
                             <span class="form-validation"></span>
                             <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
                         </div>
                     </div>
                     <div class="col-md-5">
                         <div class="form-group">
-                            <textarea class="form-field js-field-message" placeholder="Message" required></textarea>
+                            <label>
+                                <textarea class="form-field js-field-message" placeholder="Message" required></textarea>
+                            </label>
                             <span class="form-validation"></span>
                         </div>
                         <div class="submit-holder">
@@ -730,19 +738,25 @@
                         <div class="row form-wrapper">
                             <div class="col-lg-5 col-md-5">
                                 <div class="form-group">
-                                    <input class="form-field js-field-name" type="text" placeholder="Nom" required>
+                                    <label>
+                                        <input class="form-field js-field-name" type="text" placeholder="Nom" required>
+                                    </label>
                                     <span class="form-validation"></span>
                                     <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
                                 </div>
                                 <div class="form-group">
-                                    <input class="form-field js-field-email" type="email" placeholder="Email" required>
+                                    <label>
+                                        <input class="form-field js-field-email" type="email" placeholder="Email" required>
+                                    </label>
                                     <span class="form-validation"></span>
                                     <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
                                 </div>
                             </div>
                             <div class="col-lg-7 col-md-7">
                                 <div class="form-group">
-                                    <textarea class="form-field js-field-message" placeholder="Message" required></textarea>
+                                    <label>
+                                        <textarea class="form-field js-field-message" placeholder="Message" required></textarea>
+                                    </label>
                                     <span class="form-validation"></span>
                                 </div>
                             </div>
@@ -795,14 +809,12 @@
         </div>
     </div>
 </div>
-<!-- Error message modal -->
+
 
 <script src="js/jquery-2.2.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 
-<script src="js/jquery.placeholder.min.js"></script>
 
-<!--Mix It Up-->
 <script src="assets/mixitup-v3/dist/mixitup.min.js"></script>
 
 <!--THEME-->
